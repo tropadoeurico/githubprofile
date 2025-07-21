@@ -1,16 +1,16 @@
-# 📖 lutss | INFO
+# 📖 luts | INFO
 
-- 📄 My perfil name, @lutss.
+- 📄 My perfil name, @tropadoeurico.
 - 📄 Now just learn!
 - 📄 I have these reporsitories to help the community.
 
-# 💻 lutss | PROJECTS
+# 💻 luts | PROJECTS
 
 - ⭐ OTW Roleplay (Owner) - Soon
 - 💻 Dev My Website (Web Development) - Soon
 
-# 📀 lutss | GITHUB STATS:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lutssi&show_icons=true&theme=blue)
+# 📀 luts | GITHUB STATS:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tropadoeuricoi&show_icons=true&theme=blue)
 
 # 💿 lutss | TOP LANGUAGES:
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lutss&layout=compact&theme=blue)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tropadoeurico&layout=compact&theme=blue)
