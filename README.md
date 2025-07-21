@@ -12,6 +12,6 @@
 # 📀 luts | GITHUB STATS:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tropadoeurico&show_icons=true&theme=blue)
 
-# 💿 lutss | TOP LANGUAGES:
+# 💿 luts | TOP LANGUAGES:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?eusername=tropadoeurico&layout=donut)
 
