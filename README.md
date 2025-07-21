@@ -13,5 +13,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tropadoeurico&show_icons=true&theme=dark)
 
 # 💿 luts | TOP LANGUAGES:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?eusername=tropadoeurico&layout=donut)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tropadoeurico&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
