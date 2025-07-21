@@ -1,18 +1,16 @@
-# 📖 ッ | INFO
+# 📖 lutss | INFO
 
-- 📄 My perfil name, @tropadoeurico.
-- 📄 I'm working on a big project.
-- 📄 I have these reporsitories to help the community.
+- 📄 My perfil name, @lutss.
 - 📄 Now just learn!
+- 📄 I have these reporsitories to help the community.
 
-# 💻 ッ | PROJECTS
+# 💻 lutss | PROJECTS
 
-- ⭐ OTW Roleplay (Owner)
-- 🔨 Novo Rumo RP (DEV)
-- 💻 Dev My Website (Web Development)
+- ⭐ OTW Roleplay (Owner) - Soon
+- 💻 Dev My Website (Web Development) - Soon
 
-# 📀 ッ | GITHUB STATS:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianorei&show_icons=true&theme=blue)
+# 📀 lutss | GITHUB STATS:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lutssi&show_icons=true&theme=blue)
 
-# 💿 ッ | TOP LANGUAGES:
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julianorei&layout=compact&theme=blue)
+# 💿 lutss | TOP LANGUAGES:
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lutss&layout=compact&theme=blue)
