@@ -13,4 +13,5 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tropadoeurico&show_icons=true&theme=blue)
 
 # 💿 lutss | TOP LANGUAGES:
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?tropadoeurico=anuraghazra&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?tropadoeurico=anuraghazra&layout=donut)
+
