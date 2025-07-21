@@ -10,7 +10,7 @@
 - 💻 Dev My Website (Web Development) - Soon
 
 # 📀 luts | GITHUB STATS:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tropadoeuricoi&show_icons=true&theme=blue)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tropadoeurico&show_icons=true&theme=blue)
 
 # 💿 lutss | TOP LANGUAGES:
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tropadoeurico&layout=compact&theme=blue)
